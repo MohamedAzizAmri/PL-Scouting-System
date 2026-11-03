@@ -1,0 +1,84 @@
+{
+  "source": "fpl",
+  "enrichment": {
+    "football_data_standings": {
+      "clubs_matched": 20,
+      "clubs_total": 20,
+      "unmatched_clubs": []
+    },
+    "football_data_squads": {
+      "matched": 515,
+      "total": 670,
+      "match_rate": 0.769
+    },
+    "transfermarkt": {
+      "matched": 592,
+      "total": 670,
+      "match_rate": 0.884,
+      "matched_by_birth_date": 150,
+      "file": "C:\\Users\\User\\Downloads\\pl-scouting\\pl-scouting\\data\\external\\transfermarkt_pl.csv"
+    },
+    "api_football_injuries": {
+      "budget_remaining_at_start": 60,
+      "stopped_early": "daily budget used up; continues next run",
+      "teams_found": 16,
+      "teams_total": 20,
+      "squad_players": 503,
+      "matched_to_api_football": 404,
+      "match_rate": 0.603,
+      "histories_loaded": 85,
+      "histories_pending": 319,
+      "newest_injury_end": "2026-06-26",
+      "record_types": [
+        "injury: Knock x121",
+        "injury: Knee Injury x54",
+        "injury: Thigh Injury x53",
+        "injury: Hamstring x44",
+        "excluded: Illness x39",
+        "injury: Groin Injury x36",
+        "injury: Ankle/Foot Injury x33",
+        "injury: Ankle Injury x29",
+        "injury: Muscle Injury x24",
+        "injury: Back Injury x21",
+        "injury: Virus x16",
+        "injury: Foot Injury x15",
+        "injury: Calf Injury x14",
+        "injury: Head Injury x11",
+        "injury: Unknown x10",
+        "injury: Shoulder Injury x10",
+        "injury: Calf/Shin Injury x8",
+        "injury: Concussion x5",
+        "injury: Hip/Thigh Injury x5",
+        "injury: Leg Injury x5",
+        "injury: Toe Injury x4",
+        "injury: ACL Knee Injury x4",
+        "injury: Hip Injury x4",
+        "injury: Facial Injury x3",
+        "injury: MCL Knee Injury x3"
+      ],
+      "budget_remaining_at_end": 0,
+      "staleness_warning": "newest injury record ends 2026-06-26, over 120 days before 2026-11-03: the plan or source may not include recent injuries"
+    }
+  },
+  "warnings": [
+    "API-Football injuries: daily budget used up; continues next run",
+    "API-Football injuries: newest injury record ends 2026-06-26, over 120 days before 2026-11-03: the plan or source may not include recent injuries",
+    "API-Football injuries: 319 matched players still waiting for their history (they use the availability proxy until loaded)"
+  ],
+  "generated_at": "2026-11-03T00:50:48+00:00",
+  "reference_date": "2026-11-03",
+  "n_players": 670,
+  "by_position": {
+    "MID": 299,
+    "DEF": 218,
+    "FWD": 79,
+    "GK": 74
+  },
+  "coverage": {
+    "birth_date": 0.991,
+    "contract_end": 0.627,
+    "market_value_eur_m": 0.846,
+    "club_position": 1.0,
+    "status": 1.0
+  }
+}
