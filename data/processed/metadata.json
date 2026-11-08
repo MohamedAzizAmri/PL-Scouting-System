@@ -8,12 +8,12 @@
     },
     "football_data_squads": {
       "matched": 515,
-      "total": 670,
-      "match_rate": 0.769
+      "total": 671,
+      "match_rate": 0.768
     },
     "transfermarkt": {
-      "matched": 592,
-      "total": 670,
+      "matched": 593,
+      "total": 671,
       "match_rate": 0.884,
       "matched_by_birth_date": 150,
       "file": "C:\\Users\\User\\Downloads\\pl-scouting\\pl-scouting\\data\\external\\transfermarkt_pl.csv"
@@ -25,57 +25,57 @@
       "teams_total": 20,
       "squad_players": 627,
       "matched_to_api_football": 509,
-      "match_rate": 0.76,
-      "histories_loaded": 321,
-      "histories_pending": 188,
+      "match_rate": 0.759,
+      "histories_loaded": 381,
+      "histories_pending": 128,
       "newest_injury_end": "2026-07-20",
       "record_types": [
-        "injury: Knock x426",
-        "injury: Knee Injury x229",
-        "injury: Hamstring x217",
-        "injury: Thigh Injury x191",
-        "excluded: Illness x148",
-        "injury: Groin Injury x143",
-        "injury: Ankle Injury x127",
-        "injury: Ankle/Foot Injury x118",
-        "injury: Muscle Injury x103",
-        "injury: Calf Injury x79",
-        "injury: Back Injury x56",
-        "injury: Foot Injury x53",
-        "injury: Virus x50",
-        "injury: Unknown x42",
-        "injury: Shoulder Injury x41",
-        "injury: Head Injury x30",
-        "injury: Calf/Shin Injury x30",
+        "injury: Knock x498",
+        "injury: Knee Injury x280",
+        "injury: Hamstring x278",
+        "injury: Thigh Injury x229",
+        "excluded: Illness x175",
+        "injury: Groin Injury x170",
+        "injury: Ankle/Foot Injury x145",
+        "injury: Ankle Injury x143",
+        "injury: Muscle Injury x117",
+        "injury: Calf Injury x93",
+        "injury: Back Injury x68",
+        "injury: Foot Injury x65",
+        "injury: Virus x58",
+        "injury: Shoulder Injury x48",
+        "injury: Unknown x47",
+        "injury: Calf/Shin Injury x45",
+        "injury: Head Injury x36",
+        "injury: Hip/Thigh Injury x29",
+        "injury: Hip Injury x24",
+        "injury: ACL Knee Injury x21",
         "excluded: Red Card x20",
-        "injury: Hip/Thigh Injury x19",
         "excluded: Yellow Cards x19",
-        "injury: Hip Injury x17",
-        "injury: Concussion x16",
-        "injury: ACL Knee Injury x16",
-        "injury: Injury x15",
-        "injury: Leg Injury x14"
+        "injury: Concussion x18",
+        "injury: Leg Injury x16",
+        "injury: Injury x15"
       ],
       "budget_remaining_at_end": 0
     }
   },
   "warnings": [
     "API-Football injuries: daily budget used up; continues next run",
-    "API-Football injuries: 188 matched players still waiting for their history (they use the availability proxy until loaded)"
+    "API-Football injuries: 128 matched players still waiting for their history (they use the availability proxy until loaded)"
   ],
-  "generated_at": "2026-11-07T02:55:16+00:00",
-  "reference_date": "2026-11-07",
-  "n_players": 670,
+  "generated_at": "2026-11-08T02:39:49+00:00",
+  "reference_date": "2026-11-08",
+  "n_players": 671,
   "by_position": {
     "MID": 299,
     "DEF": 218,
     "FWD": 79,
-    "GK": 74
+    "GK": 75
   },
   "coverage": {
     "birth_date": 0.993,
     "contract_end": 0.627,
-    "market_value_eur_m": 0.846,
+    "market_value_eur_m": 0.845,
     "club_position": 1.0,
     "status": 1.0
   }
