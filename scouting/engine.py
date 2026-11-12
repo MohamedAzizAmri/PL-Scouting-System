@@ -34,9 +34,9 @@ from .schema import ensure_columns, validate
 log = logging.getLogger(__name__)
 
 OUTPUT_COLUMNS = [
-    "name", "club", "position_group", "age", "similarity", "age_band", "price_band", "value_m",
+    "name", "club", "position_group", "age", "similarity", "age_band", "price_band", "value_m", "expected_value_m", "value_gap_m",
     "difficulty_label", "difficulty_score", "injury_risk", "injury_basis", "availability_rate",
-    "current_status", "shared_strengths", "key_difference",
+    "current_status", "role", "role_prob", "shared_strengths", "key_difference",
 ]
 
 
@@ -223,6 +223,8 @@ class ScoutingEngine:
         min_similarity: float | None = None,
         include_low_minutes: bool = False,
         include_departed: bool = False,
+        roles: list[str] | None = None,
+        include_secondary_role: bool = False,
     ) -> pd.DataFrame:
         """Players most similar to `player`, optionally filtered by category.
 
@@ -248,6 +250,19 @@ class ScoutingEngine:
             keep &= cand["eligible"].to_numpy()
         if not include_departed:
             keep &= ~cand["departed"].to_numpy()
+        if roles:
+            if self.df["role"].isna().all():
+                raise ValueError("no roles in the data: run `python -m scouting train-roles` then `assign-roles`")
+            in_primary = cand["role"].isin(roles).to_numpy()
+            if include_secondary_role and "second_role" in cand.columns and "second_role_prob" in cand.columns:
+                in_secondary = (
+                    cand["second_role"].isin(roles).to_numpy()
+                    & (cand["second_role_prob"].fillna(0).to_numpy() >= 0.25)
+                )
+                keep &= (in_primary | in_secondary)
+            else:
+                keep &= in_primary
+            
         if min_age is not None:
             keep &= (cand["age"] >= min_age).to_numpy()
         if max_age is not None:
@@ -298,5 +313,5 @@ class ScoutingEngine:
         i = self.resolve(player)
         cols = ["name", "club", "position_group", "age", "age_band", "value_m", "price_band",
                 "price_basis", "difficulty_label", "difficulty_score", "difficulty_drivers",
-                "injury_risk", "injury_basis", "current_status", "minutes", "eligible", "departed", "news"]
+                "injury_risk", "injury_basis", "current_status", "minutes", "eligible", "departed", "news", "role"]
         return self.df.loc[i, cols]

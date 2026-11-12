@@ -30,10 +30,12 @@ OPTIONAL_COLUMNS = [
     "status", "news",         # current availability, e.g. FPL status flag + text
     "injury_count_3y", "injury_days_3y",
     "total_points", "selected_by_percent",
+    "role", "role_prob",      # ML role (see scouting/ml/roles.py); NaN until `assign-roles` / a refresh adds them
 ]
 
 DATE_COLUMNS = ["birth_date", "contract_end"]
-TEXT_COLUMNS = ["nationality", "status", "news"]
+TEXT_COLUMNS = ["nationality", "status", "news", "role"]   # all-NaN columns would otherwise be float64
+
 
 def ensure_columns(df: pd.DataFrame) -> pd.DataFrame:
     """Return a copy with every schema column present (NaN where missing) and typed."""
@@ -45,12 +47,12 @@ def ensure_columns(df: pd.DataFrame) -> pd.DataFrame:
         if col not in out.columns:
             out[col] = ""
     for col in TEXT_COLUMNS:
-         out[col] = out[col].astype(object).where(out[col].notna(), np.nan)
+        out[col] = out[col].astype(object).where(out[col].notna(), np.nan)
     for col in DATE_COLUMNS:
         out[col] = pd.to_datetime(out[col], errors="coerce")
     for col in STAT_COLUMNS + [
         "fpl_price_m", "market_value_eur_m", "club_position", "club_played", "club_points",
-        "injury_count_3y", "injury_days_3y", "total_points", "selected_by_percent",
+        "injury_count_3y", "injury_days_3y", "total_points", "selected_by_percent", "role_prob",
     ]:
         out[col] = pd.to_numeric(out[col], errors="coerce")
     return out

@@ -17,6 +17,9 @@ PROCESSED_DIR = DATA_DIR / "processed"  # pipeline output (committed by the sche
 
 PLAYERS_CSV = PROCESSED_DIR / "players.csv"
 METADATA_JSON = PROCESSED_DIR / "metadata.json"
+ROLE_MODEL = ROOT / "models" / "roles.joblib"   # fitted role model (rebuilt by `train-roles`)
+ROLE_NAMES: dict[str, str] = {}   # e.g. {"role_0": "Ball-winning defender"}; filled in after reading the profile table
+SEASONS_CSV = PROCESSED_DIR / "player_seasons.csv"   # past-season totals per player (ML training data)
 TRANSFERMARKT_CSV = EXTERNAL_DIR / "transfermarkt_pl.csv"
 INJURIES_CSV = EXTERNAL_DIR / "injuries.csv"
 

@@ -46,6 +46,7 @@ def build_players(
     use_api_football: bool = False,
     af_client: ApiFootballClient | None = None,
     af_budget: int = C.AF_DAILY_BUDGET,
+    use_roles: bool = True,
 ) -> tuple[pd.DataFrame, dict, pd.DataFrame]:
     """Return (players, metadata, unmatched_report)."""
     today = (today or pd.Timestamp.today()).normalize()
@@ -127,6 +128,20 @@ def build_players(
                 if strict:
                     raise
                 warn(f"API-Football injuries skipped: {exc}")
+
+    if use_roles and source != "synthetic" and C.ROLE_MODEL.exists():
+        try:
+            import joblib
+
+            from .ml.roles import apply_roles
+            model = joblib.load(C.ROLE_MODEL)
+            players = apply_roles(players, model)
+            meta["enrichment"]["roles"] = {
+                "model": str(C.ROLE_MODEL), "k": model.k, "features": model.feature_set,
+                "assigned": int(players["role"].notna().sum()),
+            }
+        except Exception as exc:     # roles are an optional extra: never break the data refresh over them
+            warn(f"role model not applied: {exc}")
 
     validate(players)
     meta.update(
