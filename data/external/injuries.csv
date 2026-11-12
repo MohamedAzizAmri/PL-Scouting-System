@@ -1,511 +1,1383 @@
-player_id,injury_count_3y,injury_days_3y
-fpl:1,2.0,8.0
-fpl:3,0.0,0.0
-fpl:4,7.0,160.0
-fpl:5,7.0,268.0
-fpl:6,4.0,201.0
-fpl:7,2.0,9.0
-fpl:8,8.0,125.0
-fpl:9,0.0,0.0
-fpl:10,9.0,177.0
-fpl:11,0.0,0.0
-fpl:12,11.0,172.0
-fpl:13,6.0,35.0
-fpl:14,7.0,99.0
-fpl:15,5.0,499.0
-fpl:16,2.0,59.0
-fpl:17,4.0,42.0
-fpl:19,7.0,74.0
-fpl:20,0.0,0.0
-fpl:25,1.0,12.0
-fpl:26,4.0,553.0
-fpl:452,1.0,3.0
-fpl:557,0.0,0.0
-fpl:29,1.0,14.0
-fpl:32,8.0,167.0
-fpl:33,3.0,352.0
-fpl:34,5.0,120.0
-fpl:35,0.0,0.0
-fpl:36,2.0,18.0
-fpl:37,6.0,221.0
-fpl:45,3.0,51.0
-fpl:46,4.0,624.0
-fpl:47,4.0,284.0
-fpl:48,12.0,811.0
-fpl:51,0.0,0.0
-fpl:52,1.0,5.0
-fpl:53,1.0,127.0
-fpl:54,2.0,11.0
-fpl:56,5.0,146.0
-fpl:166,2.0,59.0
-fpl:582,0.0,0.0
-fpl:596,4.0,40.0
-fpl:597,0.0,0.0
-fpl:611,2.0,58.0
-fpl:618,3.0,14.0
-fpl:630,3.0,100.0
-fpl:631,1.0,30.0
-fpl:667,0.0,0.0
-fpl:672,0.0,0.0
-fpl:57,0.0,0.0
-fpl:58,1.0,135.0
-fpl:60,4.0,99.0
-fpl:61,1.0,9.0
-fpl:62,3.0,86.0
-fpl:64,5.0,542.0
-fpl:65,4.0,250.0
-fpl:67,1.0,539.0
-fpl:68,3.0,107.0
-fpl:69,3.0,159.0
-fpl:70,2.0,30.0
-fpl:71,4.0,71.0
-fpl:72,2.0,359.0
-fpl:73,5.0,256.0
-fpl:74,1.0,95.0
-fpl:75,5.0,158.0
-fpl:76,0.0,0.0
-fpl:77,1.0,99.0
-fpl:79,1.0,47.0
-fpl:81,2.0,476.0
-fpl:566,0.0,0.0
-fpl:573,2.0,14.0
-fpl:608,2.0,24.0
-fpl:615,3.0,28.0
-fpl:82,1.0,7.0
-fpl:83,0.0,0.0
-fpl:84,2.0,76.0
-fpl:85,2.0,37.0
-fpl:86,1.0,13.0
-fpl:87,7.0,145.0
-fpl:88,3.0,39.0
-fpl:89,3.0,457.0
-fpl:90,1.0,474.0
-fpl:93,0.0,0.0
-fpl:94,3.0,164.0
-fpl:95,3.0,117.0
-fpl:96,2.0,27.0
-fpl:97,5.0,119.0
-fpl:98,2.0,127.0
-fpl:100,2.0,85.0
-fpl:103,2.0,535.0
-fpl:105,1.0,7.0
-fpl:106,5.0,290.0
-fpl:107,0.0,0.0
-fpl:108,5.0,314.0
-fpl:565,2.0,556.0
-fpl:620,1.0,47.0
-fpl:657,3.0,669.0
-fpl:660,0.0,0.0
-fpl:661,0.0,0.0
-fpl:109,1.0,39.0
-fpl:111,2.0,162.0
-fpl:113,5.0,283.0
-fpl:114,5.0,41.0
-fpl:115,5.0,457.0
-fpl:116,7.0,131.0
-fpl:119,0.0,0.0
-fpl:120,1.0,696.0
-fpl:122,5.0,51.0
-fpl:123,5.0,654.0
-fpl:124,1.0,11.0
-fpl:125,4.0,130.0
-fpl:129,5.0,34.0
-fpl:130,5.0,210.0
-fpl:134,0.0,0.0
-fpl:135,0.0,0.0
-fpl:138,1.0,22.0
-fpl:328,4.0,310.0
-fpl:504,1.0,5.0
-fpl:594,2.0,17.0
-fpl:600,2.0,39.0
-fpl:605,0.0,0.0
-fpl:614,1.0,7.0
-fpl:639,0.0,0.0
-fpl:658,0.0,0.0
-fpl:40,4.0,65.0
-fpl:101,6.0,185.0
-fpl:136,5.0,66.0
-fpl:142,4.0,260.0
-fpl:144,8.0,113.0
-fpl:145,4.0,478.0
-fpl:148,1.0,1.0
-fpl:149,6.0,563.0
-fpl:152,1.0,49.0
-fpl:154,7.0,57.0
-fpl:156,4.0,132.0
-fpl:157,4.0,36.0
-fpl:158,5.0,14.0
-fpl:161,9.0,854.0
-fpl:164,0.0,0.0
-fpl:165,6.0,112.0
-fpl:170,5.0,151.0
-fpl:200,2.0,12.0
-fpl:560,2.0,14.0
-fpl:561,2.0,102.0
-fpl:568,2.0,25.0
-fpl:583,2.0,34.0
-fpl:662,0.0,0.0
-fpl:669,0.0,0.0
-fpl:91,4.0,114.0
-fpl:104,1.0,27.0
-fpl:110,2.0,88.0
-fpl:172,1.0,87.0
-fpl:173,1.0,18.0
-fpl:175,2.0,7.0
-fpl:176,3.0,13.0
-fpl:177,2.0,426.0
-fpl:178,2.0,51.0
-fpl:179,5.0,121.0
-fpl:180,1.0,85.0
-fpl:182,2.0,77.0
-fpl:183,4.0,84.0
-fpl:184,1.0,5.0
-fpl:185,4.0,174.0
-fpl:186,4.0,493.0
-fpl:187,3.0,60.0
-fpl:188,5.0,129.0
-fpl:190,1.0,12.0
-fpl:193,3.0,171.0
-fpl:194,2.0,59.0
-fpl:195,1.0,6.0
-fpl:492,5.0,211.0
-fpl:575,0.0,0.0
-fpl:584,5.0,16.0
-fpl:599,3.0,268.0
-fpl:623,0.0,0.0
-fpl:655,2.0,15.0
-fpl:656,0.0,0.0
-fpl:42,0.0,0.0
-fpl:153,2.0,14.0
-fpl:198,1.0,34.0
-fpl:199,2.0,425.0
-fpl:202,3.0,76.0
-fpl:203,1.0,13.0
-fpl:204,1.0,8.0
-fpl:206,2.0,761.0
-fpl:207,2.0,6.0
-fpl:208,2.0,464.0
-fpl:210,6.0,197.0
-fpl:211,5.0,272.0
-fpl:212,6.0,84.0
-fpl:214,3.0,28.0
-fpl:218,3.0,922.0
-fpl:221,0.0,0.0
-fpl:222,5.0,70.0
-fpl:223,1.0,26.0
-fpl:224,4.0,83.0
-fpl:241,4.0,134.0
-fpl:555,0.0,0.0
-fpl:577,5.0,887.0
-fpl:588,1.0,17.0
-fpl:595,1.0,22.0
-fpl:633,2.0,157.0
-fpl:643,4.0,106.0
-fpl:644,9.0,245.0
-fpl:647,0.0,0.0
-fpl:21,7.0,120.0
-fpl:209,3.0,35.0
-fpl:226,1.0,2.0
-fpl:227,0.0,0.0
-fpl:228,0.0,0.0
-fpl:229,2.0,100.0
-fpl:230,6.0,625.0
-fpl:231,4.0,27.0
-fpl:233,8.0,116.0
-fpl:236,0.0,0.0
-fpl:238,7.0,69.0
-fpl:239,3.0,130.0
-fpl:242,0.0,0.0
-fpl:244,1.0,8.0
-fpl:245,1.0,13.0
-fpl:246,6.0,232.0
-fpl:247,4.0,205.0
-fpl:249,2.0,17.0
-fpl:649,0.0,0.0
-fpl:654,0.0,0.0
-fpl:250,0.0,0.0
-fpl:251,1.0,69.0
-fpl:253,1.0,26.0
-fpl:254,4.0,102.0
-fpl:255,2.0,35.0
-fpl:256,3.0,122.0
-fpl:257,0.0,0.0
-fpl:258,2.0,91.0
-fpl:261,0.0,0.0
-fpl:262,5.0,47.0
-fpl:263,0.0,0.0
-fpl:264,3.0,190.0
-fpl:265,2.0,45.0
-fpl:266,1.0,1.0
-fpl:269,4.0,92.0
-fpl:270,4.0,148.0
-fpl:271,3.0,118.0
-fpl:272,0.0,0.0
-fpl:569,0.0,0.0
-fpl:570,0.0,0.0
-fpl:580,0.0,0.0
-fpl:626,0.0,0.0
-fpl:635,6.0,55.0
-fpl:636,0.0,0.0
-fpl:650,0.0,0.0
-fpl:240,3.0,161.0
-fpl:273,0.0,0.0
-fpl:274,0.0,0.0
-fpl:277,2.0,234.0
-fpl:278,2.0,74.0
-fpl:279,3.0,623.0
-fpl:280,5.0,71.0
-fpl:282,2.0,10.0
-fpl:285,7.0,255.0
-fpl:286,1.0,287.0
-fpl:288,1.0,84.0
-fpl:289,5.0,490.0
-fpl:290,2.0,109.0
-fpl:292,4.0,94.0
-fpl:294,1.0,6.0
-fpl:295,3.0,54.0
-fpl:297,3.0,136.0
-fpl:340,3.0,107.0
-fpl:556,3.0,337.0
-fpl:563,2.0,35.0
-fpl:572,0.0,0.0
-fpl:574,0.0,0.0
-fpl:576,1.0,6.0
-fpl:585,0.0,0.0
-fpl:586,4.0,106.0
-fpl:589,0.0,0.0
-fpl:617,5.0,63.0
-fpl:632,0.0,0.0
-fpl:637,2.0,29.0
-fpl:638,4.0,119.0
-fpl:642,1.0,14.0
-fpl:645,0.0,0.0
-fpl:259,2.0,43.0
-fpl:267,5.0,79.0
-fpl:300,1.0,34.0
-fpl:301,1.0,5.0
-fpl:302,0.0,0.0
-fpl:303,1.0,2.0
-fpl:305,4.0,10.0
-fpl:306,1.0,47.0
-fpl:308,0.0,0.0
-fpl:309,6.0,105.0
-fpl:310,1.0,3.0
-fpl:312,2.0,60.0
-fpl:313,1.0,42.0
-fpl:315,2.0,230.0
-fpl:316,1.0,30.0
-fpl:318,7.0,188.0
-fpl:320,1.0,5.0
-fpl:321,0.0,0.0
-fpl:323,3.0,115.0
-fpl:324,0.0,0.0
-fpl:562,6.0,85.0
-fpl:564,0.0,0.0
-fpl:571,2.0,27.0
-fpl:591,6.0,224.0
-fpl:592,2.0,47.0
-fpl:619,8.0,523.0
-fpl:640,4.0,93.0
-fpl:260,3.0,87.0
-fpl:327,3.0,115.0
-fpl:329,3.0,15.0
-fpl:330,6.0,43.0
-fpl:331,2.0,5.0
-fpl:332,3.0,36.0
-fpl:334,0.0,0.0
-fpl:335,3.0,23.0
-fpl:336,6.0,91.0
-fpl:337,1.0,1.0
-fpl:338,3.0,121.0
-fpl:339,1.0,16.0
-fpl:343,7.0,609.0
-fpl:344,3.0,120.0
-fpl:346,4.0,116.0
-fpl:347,5.0,363.0
-fpl:385,0.0,0.0
-fpl:598,6.0,66.0
-fpl:603,0.0,0.0
-fpl:604,0.0,0.0
-fpl:625,0.0,0.0
-fpl:629,4.0,18.0
-fpl:641,5.0,72.0
-fpl:648,4.0,65.0
-fpl:350,5.0,161.0
-fpl:351,1.0,31.0
-fpl:352,2.0,112.0
-fpl:355,0.0,0.0
-fpl:356,2.0,10.0
-fpl:357,1.0,25.0
-fpl:358,4.0,62.0
-fpl:359,4.0,149.0
-fpl:362,3.0,23.0
-fpl:364,2.0,69.0
-fpl:366,4.0,42.0
-fpl:367,2.0,15.0
-fpl:368,2.0,57.0
-fpl:369,0.0,0.0
-fpl:370,5.0,85.0
-fpl:371,4.0,49.0
-fpl:372,7.0,110.0
-fpl:375,0.0,0.0
-fpl:377,0.0,0.0
-fpl:378,0.0,0.0
-fpl:379,10.0,103.0
-fpl:381,0.0,0.0
-fpl:382,1.0,180.0
-fpl:579,5.0,306.0
-fpl:627,2.0,17.0
-fpl:155,3.0,66.0
-fpl:237,3.0,45.0
-fpl:384,2.0,21.0
-fpl:386,1.0,27.0
-fpl:388,3.0,148.0
-fpl:389,4.0,45.0
-fpl:390,3.0,74.0
-fpl:391,4.0,48.0
-fpl:392,7.0,478.0
-fpl:393,1.0,11.0
-fpl:395,1.0,11.0
-fpl:396,1.0,14.0
-fpl:397,3.0,27.0
-fpl:398,5.0,31.0
-fpl:399,3.0,447.0
-fpl:400,5.0,83.0
-fpl:406,6.0,573.0
-fpl:411,5.0,95.0
-fpl:481,3.0,126.0
-fpl:587,0.0,0.0
-fpl:616,3.0,17.0
-fpl:621,0.0,0.0
-fpl:622,0.0,0.0
-fpl:628,0.0,0.0
-fpl:653,0.0,0.0
-fpl:43,7.0,627.0
-fpl:131,4.0,33.0
-fpl:162,0.0,0.0
-fpl:325,1.0,62.0
-fpl:412,0.0,0.0
-fpl:414,1.0,45.0
-fpl:415,0.0,0.0
-fpl:416,7.0,150.0
-fpl:417,2.0,458.0
-fpl:418,10.0,244.0
-fpl:419,6.0,810.0
-fpl:420,5.0,137.0
-fpl:421,2.0,55.0
-fpl:422,8.0,102.0
-fpl:423,8.0,391.0
-fpl:424,0.0,0.0
-fpl:426,1.0,16.0
-fpl:427,2.0,109.0
-fpl:428,4.0,93.0
-fpl:429,4.0,118.0
-fpl:430,7.0,315.0
-fpl:431,3.0,122.0
-fpl:432,4.0,94.0
-fpl:434,0.0,0.0
-fpl:435,0.0,0.0
-fpl:438,0.0,0.0
-fpl:439,0.0,0.0
-fpl:440,4.0,72.0
-fpl:405,0.0,0.0
-fpl:442,3.0,192.0
-fpl:443,0.0,0.0
-fpl:444,0.0,0.0
-fpl:445,4.0,131.0
-fpl:446,10.0,461.0
-fpl:447,6.0,405.0
-fpl:448,2.0,37.0
-fpl:449,2.0,152.0
-fpl:450,3.0,79.0
-fpl:453,3.0,135.0
-fpl:454,6.0,65.0
-fpl:456,6.0,645.0
-fpl:457,4.0,96.0
-fpl:458,8.0,269.0
-fpl:459,2.0,202.0
-fpl:460,9.0,248.0
-fpl:461,0.0,0.0
-fpl:462,0.0,0.0
-fpl:464,3.0,469.0
-fpl:465,0.0,0.0
-fpl:559,1.0,415.0
-fpl:567,0.0,0.0
-fpl:593,3.0,101.0
-fpl:634,3.0,55.0
-fpl:659,0.0,0.0
-fpl:663,0.0,0.0
-fpl:664,0.0,0.0
-fpl:665,0.0,0.0
-fpl:666,0.0,0.0
-fpl:167,2.0,538.0
-fpl:467,1.0,13.0
-fpl:468,1.0,5.0
-fpl:469,1.0,62.0
-fpl:471,0.0,0.0
-fpl:472,9.0,469.0
-fpl:473,5.0,509.0
-fpl:478,1.0,55.0
-fpl:480,6.0,47.0
-fpl:482,5.0,60.0
-fpl:483,6.0,109.0
-fpl:486,1.0,8.0
-fpl:487,4.0,589.0
-fpl:488,3.0,173.0
-fpl:489,1.0,5.0
-fpl:490,5.0,63.0
-fpl:491,1.0,3.0
-fpl:493,2.0,12.0
-fpl:558,4.0,743.0
-fpl:581,0.0,0.0
-fpl:590,0.0,0.0
-fpl:112,3.0,114.0
-fpl:147,3.0,26.0
-fpl:401,2.0,432.0
-fpl:403,5.0,63.0
-fpl:455,2.0,4.0
-fpl:495,0.0,0.0
-fpl:496,0.0,0.0
-fpl:497,1.0,27.0
-fpl:499,3.0,38.0
-fpl:502,5.0,104.0
-fpl:503,6.0,211.0
-fpl:506,7.0,216.0
-fpl:508,4.0,134.0
-fpl:512,3.0,31.0
-fpl:514,3.0,18.0
-fpl:515,5.0,653.0
-fpl:516,4.0,60.0
-fpl:519,0.0,0.0
-fpl:520,2.0,79.0
-fpl:521,2.0,586.0
-fpl:522,2.0,9.0
-fpl:524,0.0,0.0
-fpl:525,0.0,0.0
-fpl:527,10.0,337.0
-fpl:578,3.0,49.0
-fpl:601,0.0,0.0
-fpl:501,6.0,88.0
-fpl:529,2.0,22.0
-fpl:531,0.0,0.0
-fpl:532,9.0,226.0
-fpl:533,4.0,59.0
-fpl:534,1.0,6.0
-fpl:535,7.0,32.0
-fpl:536,3.0,19.0
-fpl:541,5.0,515.0
-fpl:542,5.0,144.0
-fpl:543,4.0,45.0
-fpl:544,2.0,5.0
-fpl:545,1.0,4.0
-fpl:547,3.0,608.0
-fpl:548,4.0,41.0
-fpl:549,3.0,143.0
-fpl:551,1.0,19.0
-fpl:552,13.0,93.0
-fpl:553,3.0,25.0
-fpl:612,0.0,0.0
-fpl:613,0.0,0.0
-fpl:646,4.0,50.0
-fpl:651,0.0,0.0
+player,from_date,days
+David Raya Martín,2026-01-01,4.0
+David Raya Martín,2026-01-01,4.0
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Gabriel dos Santos Magalhães,2026-01-01,22.857142857142858
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+Jurriën Timber,2026-01-01,38.285714285714285
+William Saliba,2026-01-01,50.25
+William Saliba,2026-01-01,50.25
+William Saliba,2026-01-01,50.25
+William Saliba,2026-01-01,50.25
+Myles Lewis-Skelly,2026-01-01,4.5
+Myles Lewis-Skelly,2026-01-01,4.5
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Riccardo Calafiori,2026-01-01,15.625
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Benjamin White,2026-01-01,19.666666666666668
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Bukayo Saka,2026-01-01,15.636363636363637
+Declan Rice,2026-01-01,5.833333333333333
+Declan Rice,2026-01-01,5.833333333333333
+Declan Rice,2026-01-01,5.833333333333333
+Declan Rice,2026-01-01,5.833333333333333
+Declan Rice,2026-01-01,5.833333333333333
+Declan Rice,2026-01-01,5.833333333333333
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Eberechi Eze,2026-01-01,14.142857142857142
+Martin Ødegaard,2026-01-01,99.8
+Martin Ødegaard,2026-01-01,99.8
+Martin Ødegaard,2026-01-01,99.8
+Martin Ødegaard,2026-01-01,99.8
+Martin Ødegaard,2026-01-01,99.8
+Noni Madueke,2026-01-01,29.5
+Noni Madueke,2026-01-01,29.5
+Mikel Merino Zazón,2026-01-01,10.5
+Mikel Merino Zazón,2026-01-01,10.5
+Mikel Merino Zazón,2026-01-01,10.5
+Mikel Merino Zazón,2026-01-01,10.5
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Martín Zubimendi Ibáñez,2026-01-01,10.571428571428571
+Viktor Gyökeres,2026-01-01,12.0
+Kai Havertz,2026-01-01,138.25
+Kai Havertz,2026-01-01,138.25
+Kai Havertz,2026-01-01,138.25
+Kai Havertz,2026-01-01,138.25
+Bruno Guimarães Rodriguez Moura,2026-01-01,3.0
+Marco Bizot,2026-01-01,14.0
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Matty Cash,2026-01-01,20.875
+Tyrone Mings,2026-01-01,117.33333333333333
+Tyrone Mings,2026-01-01,117.33333333333333
+Tyrone Mings,2026-01-01,117.33333333333333
+Pau Torres,2026-01-01,24.0
+Pau Torres,2026-01-01,24.0
+Pau Torres,2026-01-01,24.0
+Pau Torres,2026-01-01,24.0
+Pau Torres,2026-01-01,24.0
+Ian Maatsen,2026-01-01,9.0
+Ian Maatsen,2026-01-01,9.0
+Victor Lindelöf,2026-01-01,36.833333333333336
+Victor Lindelöf,2026-01-01,36.833333333333336
+Victor Lindelöf,2026-01-01,36.833333333333336
+Victor Lindelöf,2026-01-01,36.833333333333336
+Victor Lindelöf,2026-01-01,36.833333333333336
+Victor Lindelöf,2026-01-01,36.833333333333336
+John McGinn,2026-01-01,17.0
+John McGinn,2026-01-01,17.0
+John McGinn,2026-01-01,17.0
+Ross Barkley,2026-01-01,156.0
+Ross Barkley,2026-01-01,156.0
+Ross Barkley,2026-01-01,156.0
+Ross Barkley,2026-01-01,156.0
+Boubacar Kamara,2026-01-01,71.0
+Boubacar Kamara,2026-01-01,71.0
+Boubacar Kamara,2026-01-01,71.0
+Boubacar Kamara,2026-01-01,71.0
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Amadou Onana,2026-01-01,67.58333333333333
+Alysson Edward Franco da Rocha dos Santos,2026-01-01,5.0
+Johan Manzambi,2026-01-01,127.0
+Joao Gomes,2026-01-01,5.5
+Joao Gomes,2026-01-01,5.5
+Tammy Abraham,2026-01-01,29.2
+Tammy Abraham,2026-01-01,29.2
+Tammy Abraham,2026-01-01,29.2
+Tammy Abraham,2026-01-01,29.2
+Tammy Abraham,2026-01-01,29.2
+Nicolas Jackson,2026-01-01,29.5
+Nicolas Jackson,2026-01-01,29.5
+Matteo Ruggeri,2026-01-01,10.0
+Matteo Ruggeri,2026-01-01,10.0
+Matteo Ruggeri,2026-01-01,10.0
+Matteo Ruggeri,2026-01-01,10.0
+Aaron Wan-Bissaka,2026-01-01,29.0
+Aaron Wan-Bissaka,2026-01-01,29.0
+Leon Goretzka,2026-01-01,4.666666666666667
+Leon Goretzka,2026-01-01,4.666666666666667
+Leon Goretzka,2026-01-01,4.666666666666667
+Taylor Harwood-Bellis,2026-01-01,33.333333333333336
+Taylor Harwood-Bellis,2026-01-01,33.333333333333336
+Taylor Harwood-Bellis,2026-01-01,33.333333333333336
+Ibrahim Mbaye,2026-01-01,30.0
+Fraser Forster,2026-01-01,135.0
+James Hill,2026-01-01,24.75
+James Hill,2026-01-01,24.75
+James Hill,2026-01-01,24.75
+James Hill,2026-01-01,24.75
+Adrien Truffert,2026-01-01,9.0
+Bafodé Diakité,2026-01-01,28.666666666666668
+Bafodé Diakité,2026-01-01,28.666666666666668
+Bafodé Diakité,2026-01-01,28.666666666666668
+Adam Smith,2026-01-01,108.4
+Adam Smith,2026-01-01,108.4
+Adam Smith,2026-01-01,108.4
+Adam Smith,2026-01-01,108.4
+Adam Smith,2026-01-01,108.4
+Julián Araujo Zúñiga,2026-01-01,62.5
+Julián Araujo Zúñiga,2026-01-01,62.5
+Julián Araujo Zúñiga,2026-01-01,62.5
+Julián Araujo Zúñiga,2026-01-01,62.5
+Rayan Vitor Simplício Rocha,2026-01-01,539.0
+Marcus Tavernier,2026-01-01,35.666666666666664
+Marcus Tavernier,2026-01-01,35.666666666666664
+Marcus Tavernier,2026-01-01,35.666666666666664
+Alex Scott,2026-01-01,53.0
+Alex Scott,2026-01-01,53.0
+Alex Scott,2026-01-01,53.0
+Justin Kluivert,2026-01-01,15.0
+Justin Kluivert,2026-01-01,15.0
+Lewis Cook,2026-01-01,17.75
+Lewis Cook,2026-01-01,17.75
+Lewis Cook,2026-01-01,17.75
+Lewis Cook,2026-01-01,17.75
+Ben Gannon-Doak,2026-01-01,179.5
+Ben Gannon-Doak,2026-01-01,179.5
+Tyler Adams,2026-01-01,51.2
+Tyler Adams,2026-01-01,51.2
+Tyler Adams,2026-01-01,51.2
+Tyler Adams,2026-01-01,51.2
+Tyler Adams,2026-01-01,51.2
+David Brooks,2026-01-01,95.0
+Ryan Christie,2026-01-01,31.6
+Ryan Christie,2026-01-01,31.6
+Ryan Christie,2026-01-01,31.6
+Ryan Christie,2026-01-01,31.6
+Ryan Christie,2026-01-01,31.6
+Amine Adli,2026-01-01,99.0
+Francisco Evanilson de Lima Barbosa,2026-01-01,47.0
+Álvaro Rodríguez,2026-01-01,238.0
+Álvaro Rodríguez,2026-01-01,238.0
+Juanlu Sánchez,2026-01-01,7.0
+Juanlu Sánchez,2026-01-01,7.0
+Daniel Jebbison,2026-01-01,12.0
+Daniel Jebbison,2026-01-01,12.0
+Michele Di Gregorio,2026-01-01,9.333333333333334
+Michele Di Gregorio,2026-01-01,9.333333333333334
+Michele Di Gregorio,2026-01-01,9.333333333333334
+Caoimhín Kelleher,2026-01-01,7.0
+Nathan Collins,2026-01-01,38.0
+Nathan Collins,2026-01-01,38.0
+Sepp van den Berg,2026-01-01,18.5
+Sepp van den Berg,2026-01-01,18.5
+Keane Lewis-Potter,2026-01-01,13.0
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Kristoffer Ajer,2026-01-01,20.714285714285715
+Michael Kayode,2026-01-01,13.0
+Michael Kayode,2026-01-01,13.0
+Michael Kayode,2026-01-01,13.0
+Rico Henry,2026-01-01,152.33333333333334
+Rico Henry,2026-01-01,152.33333333333334
+Rico Henry,2026-01-01,152.33333333333334
+Aaron Hickey,2026-01-01,474.0
+Kevin Schade,2026-01-01,54.666666666666664
+Kevin Schade,2026-01-01,54.666666666666664
+Kevin Schade,2026-01-01,54.666666666666664
+Dango Ouattara,2026-01-01,39.0
+Dango Ouattara,2026-01-01,39.0
+Dango Ouattara,2026-01-01,39.0
+Mikkel Damsgaard,2026-01-01,13.5
+Mikkel Damsgaard,2026-01-01,13.5
+Mathias Jensen,2026-01-01,23.8
+Mathias Jensen,2026-01-01,23.8
+Mathias Jensen,2026-01-01,23.8
+Mathias Jensen,2026-01-01,23.8
+Mathias Jensen,2026-01-01,23.8
+Vitaly Janelt,2026-01-01,63.5
+Vitaly Janelt,2026-01-01,63.5
+Fábio Freitas Gouveia Carvalho,2026-01-01,42.5
+Fábio Freitas Gouveia Carvalho,2026-01-01,42.5
+Josh Dasilva,2026-01-01,267.5
+Josh Dasilva,2026-01-01,267.5
+Jaidon Anthony,2026-01-01,7.0
+Igor Thiago Nascimento Rodrigues,2026-01-01,58.0
+Igor Thiago Nascimento Rodrigues,2026-01-01,58.0
+Igor Thiago Nascimento Rodrigues,2026-01-01,58.0
+Igor Thiago Nascimento Rodrigues,2026-01-01,58.0
+Igor Thiago Nascimento Rodrigues,2026-01-01,58.0
+Callum Wilson,2026-01-01,62.8
+Callum Wilson,2026-01-01,62.8
+Callum Wilson,2026-01-01,62.8
+Callum Wilson,2026-01-01,62.8
+Callum Wilson,2026-01-01,62.8
+Mamadou Sangaré,2026-01-01,278.0
+Mamadou Sangaré,2026-01-01,278.0
+El Hadji Malick Diouf,2026-01-01,47.0
+Gustavo Nunes Fernandes Gomes,2026-01-01,223.0
+Gustavo Nunes Fernandes Gomes,2026-01-01,223.0
+Gustavo Nunes Fernandes Gomes,2026-01-01,223.0
+Bart Verbruggen,2026-01-01,39.0
+Jason Steele,2026-01-01,81.0
+Jason Steele,2026-01-01,81.0
+Ferdi Kadıoğlu,2026-01-01,56.6
+Ferdi Kadıoğlu,2026-01-01,56.6
+Ferdi Kadıoğlu,2026-01-01,56.6
+Ferdi Kadıoğlu,2026-01-01,56.6
+Ferdi Kadıoğlu,2026-01-01,56.6
+Olivier Boscagli,2026-01-01,8.2
+Olivier Boscagli,2026-01-01,8.2
+Olivier Boscagli,2026-01-01,8.2
+Olivier Boscagli,2026-01-01,8.2
+Olivier Boscagli,2026-01-01,8.2
+Maxim De Cuyper,2026-01-01,91.4
+Maxim De Cuyper,2026-01-01,91.4
+Maxim De Cuyper,2026-01-01,91.4
+Maxim De Cuyper,2026-01-01,91.4
+Maxim De Cuyper,2026-01-01,91.4
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Lewis Dunk,2026-01-01,18.714285714285715
+Michael Svoboda,2026-01-01,696.0
+Yankuba Minteh,2026-01-01,10.2
+Yankuba Minteh,2026-01-01,10.2
+Yankuba Minteh,2026-01-01,10.2
+Yankuba Minteh,2026-01-01,10.2
+Yankuba Minteh,2026-01-01,10.2
+Jack Hinshelwood,2026-01-01,130.8
+Jack Hinshelwood,2026-01-01,130.8
+Jack Hinshelwood,2026-01-01,130.8
+Jack Hinshelwood,2026-01-01,130.8
+Jack Hinshelwood,2026-01-01,130.8
+Pascal Groß,2026-01-01,11.0
+Georginio Rutter,2026-01-01,32.5
+Georginio Rutter,2026-01-01,32.5
+Georginio Rutter,2026-01-01,32.5
+Georginio Rutter,2026-01-01,32.5
+Yasin Ayari,2026-01-01,6.8
+Yasin Ayari,2026-01-01,6.8
+Yasin Ayari,2026-01-01,6.8
+Yasin Ayari,2026-01-01,6.8
+Yasin Ayari,2026-01-01,6.8
+Mats Wieffer,2026-01-01,42.0
+Mats Wieffer,2026-01-01,42.0
+Mats Wieffer,2026-01-01,42.0
+Mats Wieffer,2026-01-01,42.0
+Mats Wieffer,2026-01-01,42.0
+Charalampos Kostoulas,2026-01-01,22.0
+Pascal Struijk,2026-01-01,77.5
+Pascal Struijk,2026-01-01,77.5
+Pascal Struijk,2026-01-01,77.5
+Pascal Struijk,2026-01-01,77.5
+Luka Vušković,2026-01-01,5.0
+Promise David,2026-01-01,8.5
+Promise David,2026-01-01,8.5
+Ibrahim Osman,2026-01-01,19.5
+Ibrahim Osman,2026-01-01,19.5
+Jaouen Hadjam,2026-01-01,7.0
+Morgan Rogers,2026-01-01,16.25
+Morgan Rogers,2026-01-01,16.25
+Morgan Rogers,2026-01-01,16.25
+Morgan Rogers,2026-01-01,16.25
+Jordan Henderson,2026-01-01,30.833333333333332
+Jordan Henderson,2026-01-01,30.833333333333332
+Jordan Henderson,2026-01-01,30.833333333333332
+Jordan Henderson,2026-01-01,30.833333333333332
+Jordan Henderson,2026-01-01,30.833333333333332
+Jordan Henderson,2026-01-01,30.833333333333332
+Danny Welbeck,2026-01-01,13.2
+Danny Welbeck,2026-01-01,13.2
+Danny Welbeck,2026-01-01,13.2
+Danny Welbeck,2026-01-01,13.2
+Danny Welbeck,2026-01-01,13.2
+Reece James,2026-01-01,65.0
+Reece James,2026-01-01,65.0
+Reece James,2026-01-01,65.0
+Reece James,2026-01-01,65.0
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Malo Gusto,2026-01-01,14.125
+Wesley Fofana,2026-01-01,119.5
+Wesley Fofana,2026-01-01,119.5
+Wesley Fofana,2026-01-01,119.5
+Wesley Fofana,2026-01-01,119.5
+Jorrel Hato,2026-01-01,1.0
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Levi Samuels Colwill,2026-01-01,93.83333333333333
+Marco Palestra,2026-01-01,49.0
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Cole Palmer,2026-01-01,8.142857142857142
+Pedro Lomba Neto,2026-01-01,33.0
+Pedro Lomba Neto,2026-01-01,33.0
+Pedro Lomba Neto,2026-01-01,33.0
+Pedro Lomba Neto,2026-01-01,33.0
+Estêvão Almeida de Oliveira Gonçalves,2026-01-01,9.0
+Estêvão Almeida de Oliveira Gonçalves,2026-01-01,9.0
+Estêvão Almeida de Oliveira Gonçalves,2026-01-01,9.0
+Estêvão Almeida de Oliveira Gonçalves,2026-01-01,9.0
+Jamie Bynoe-Gittens,2026-01-01,2.8
+Jamie Bynoe-Gittens,2026-01-01,2.8
+Jamie Bynoe-Gittens,2026-01-01,2.8
+Jamie Bynoe-Gittens,2026-01-01,2.8
+Jamie Bynoe-Gittens,2026-01-01,2.8
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+Roméo Lavia,2026-01-01,94.88888888888889
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+João Pedro Junqueira de Jesus,2026-01-01,18.666666666666668
+Emmanuel Emegha,2026-01-01,30.2
+Emmanuel Emegha,2026-01-01,30.2
+Emmanuel Emegha,2026-01-01,30.2
+Emmanuel Emegha,2026-01-01,30.2
+Emmanuel Emegha,2026-01-01,30.2
+Maxence Lacroix,2026-01-01,6.0
+Maxence Lacroix,2026-01-01,6.0
+Mike Penders,2026-01-01,7.0
+Mike Penders,2026-01-01,7.0
+Aaron Anselmino,2026-01-01,51.0
+Aaron Anselmino,2026-01-01,51.0
+Valentín Barco,2026-01-01,12.5
+Valentín Barco,2026-01-01,12.5
+Pep Chavarría,2026-01-01,17.0
+Pep Chavarría,2026-01-01,17.0
+Ethan Pinnock,2026-01-01,28.5
+Ethan Pinnock,2026-01-01,28.5
+Ethan Pinnock,2026-01-01,28.5
+Ethan Pinnock,2026-01-01,28.5
+Frank Onyeka,2026-01-01,27.0
+Carl Rushworth,2026-01-01,44.0
+Carl Rushworth,2026-01-01,44.0
+Ben Wilson,2026-01-01,87.0
+Bobby Thomas,2026-01-01,18.0
+Milan van Ewijk,2026-01-01,3.5
+Milan van Ewijk,2026-01-01,3.5
+Jay Dasilva,2026-01-01,4.333333333333333
+Jay Dasilva,2026-01-01,4.333333333333333
+Jay Dasilva,2026-01-01,4.333333333333333
+Kaine Kesler-Hayden,2026-01-01,213.0
+Kaine Kesler-Hayden,2026-01-01,213.0
+Jake Bidwell,2026-01-01,25.5
+Jake Bidwell,2026-01-01,25.5
+Joel Latibeaudiere,2026-01-01,24.2
+Joel Latibeaudiere,2026-01-01,24.2
+Joel Latibeaudiere,2026-01-01,24.2
+Joel Latibeaudiere,2026-01-01,24.2
+Joel Latibeaudiere,2026-01-01,24.2
+Luke Woolfenden,2026-01-01,85.0
+Aurèle Amenda,2026-01-01,38.5
+Aurèle Amenda,2026-01-01,38.5
+Jack Rudoni,2026-01-01,21.0
+Jack Rudoni,2026-01-01,21.0
+Jack Rudoni,2026-01-01,21.0
+Jack Rudoni,2026-01-01,21.0
+Matt Grimes,2026-01-01,5.0
+Tatsuhiro Sakamoto,2026-01-01,43.5
+Tatsuhiro Sakamoto,2026-01-01,43.5
+Tatsuhiro Sakamoto,2026-01-01,43.5
+Tatsuhiro Sakamoto,2026-01-01,43.5
+Ephron Mason-Clark,2026-01-01,123.25
+Ephron Mason-Clark,2026-01-01,123.25
+Ephron Mason-Clark,2026-01-01,123.25
+Ephron Mason-Clark,2026-01-01,123.25
+Josh Eccles,2026-01-01,20.0
+Josh Eccles,2026-01-01,20.0
+Josh Eccles,2026-01-01,20.0
+Victor Torp,2026-01-01,25.8
+Victor Torp,2026-01-01,25.8
+Victor Torp,2026-01-01,25.8
+Victor Torp,2026-01-01,25.8
+Victor Torp,2026-01-01,25.8
+Loum Tchaouna,2026-01-01,12.0
+Haji Wright,2026-01-01,57.0
+Haji Wright,2026-01-01,57.0
+Haji Wright,2026-01-01,57.0
+Brandon Thomas-Asante,2026-01-01,29.5
+Brandon Thomas-Asante,2026-01-01,29.5
+Ellis Simms,2026-01-01,6.0
+Taiwo Awoniyi,2026-01-01,42.2
+Taiwo Awoniyi,2026-01-01,42.2
+Taiwo Awoniyi,2026-01-01,42.2
+Taiwo Awoniyi,2026-01-01,42.2
+Taiwo Awoniyi,2026-01-01,42.2
+Gustavo Hamer,2026-01-01,3.2
+Gustavo Hamer,2026-01-01,3.2
+Gustavo Hamer,2026-01-01,3.2
+Gustavo Hamer,2026-01-01,3.2
+Gustavo Hamer,2026-01-01,3.2
+Sidiki Cherif,2026-01-01,89.33333333333333
+Sidiki Cherif,2026-01-01,89.33333333333333
+Sidiki Cherif,2026-01-01,89.33333333333333
+Yann Gboho,2026-01-01,7.5
+Yann Gboho,2026-01-01,7.5
+Axel Disasi,2026-01-01,7.0
+Axel Disasi,2026-01-01,7.0
+Dean Henderson,2026-01-01,34.0
+Walter Benítez,2026-01-01,212.5
+Walter Benítez,2026-01-01,212.5
+Chris Richards,2026-01-01,25.333333333333332
+Chris Richards,2026-01-01,25.333333333333332
+Chris Richards,2026-01-01,25.333333333333332
+Jaydee Canvot,2026-01-01,13.0
+Tyrick Mitchell,2026-01-01,8.0
+Chadi Riad Dnanou,2026-01-01,380.5
+Chadi Riad Dnanou,2026-01-01,380.5
+Oscar Mingueza,2026-01-01,3.0
+Oscar Mingueza,2026-01-01,3.0
+Ismaïla Sarr,2026-01-01,232.0
+Ismaïla Sarr,2026-01-01,232.0
+Adam Wharton,2026-01-01,32.833333333333336
+Adam Wharton,2026-01-01,32.833333333333336
+Adam Wharton,2026-01-01,32.833333333333336
+Adam Wharton,2026-01-01,32.833333333333336
+Adam Wharton,2026-01-01,32.833333333333336
+Adam Wharton,2026-01-01,32.833333333333336
+Yéremy Pino Santos,2026-01-01,54.4
+Yéremy Pino Santos,2026-01-01,54.4
+Yéremy Pino Santos,2026-01-01,54.4
+Yéremy Pino Santos,2026-01-01,54.4
+Yéremy Pino Santos,2026-01-01,54.4
+Will Hughes,2026-01-01,14.0
+Will Hughes,2026-01-01,14.0
+Will Hughes,2026-01-01,14.0
+Will Hughes,2026-01-01,14.0
+Will Hughes,2026-01-01,14.0
+Will Hughes,2026-01-01,14.0
+Daichi Kamada,2026-01-01,9.333333333333334
+Daichi Kamada,2026-01-01,9.333333333333334
+Daichi Kamada,2026-01-01,9.333333333333334
+Cheick Doucouré,2026-01-01,307.3333333333333
+Cheick Doucouré,2026-01-01,307.3333333333333
+Cheick Doucouré,2026-01-01,307.3333333333333
+Jørgen Strand Larsen,2026-01-01,14.0
+Jørgen Strand Larsen,2026-01-01,14.0
+Jørgen Strand Larsen,2026-01-01,14.0
+Jørgen Strand Larsen,2026-01-01,14.0
+Jørgen Strand Larsen,2026-01-01,14.0
+Jean-Philippe Mateta,2026-01-01,26.0
+Eddie Nketiah,2026-01-01,20.75
+Eddie Nketiah,2026-01-01,20.75
+Eddie Nketiah,2026-01-01,20.75
+Eddie Nketiah,2026-01-01,20.75
+Dwight McNeil,2026-01-01,33.5
+Dwight McNeil,2026-01-01,33.5
+Dwight McNeil,2026-01-01,33.5
+Dwight McNeil,2026-01-01,33.5
+Takehiro Tomiyasu,2026-01-01,177.4
+Takehiro Tomiyasu,2026-01-01,177.4
+Takehiro Tomiyasu,2026-01-01,177.4
+Takehiro Tomiyasu,2026-01-01,177.4
+Takehiro Tomiyasu,2026-01-01,177.4
+Anan Khalaili,2026-01-01,17.0
+Zavier Gozo,2026-01-01,22.0
+Honest Ahanor,2026-01-01,78.5
+Honest Ahanor,2026-01-01,78.5
+Ben Chilwell,2026-01-01,26.5
+Ben Chilwell,2026-01-01,26.5
+Ben Chilwell,2026-01-01,26.5
+Ben Chilwell,2026-01-01,26.5
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Quinten Timber,2026-01-01,27.22222222222222
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Christian Nørgaard,2026-01-01,17.142857142857142
+Brennan Johnson,2026-01-01,11.666666666666666
+Brennan Johnson,2026-01-01,11.666666666666666
+Brennan Johnson,2026-01-01,11.666666666666666
+Jordan Pickford,2026-01-01,2.0
+James Tarkowski,2026-01-01,50.0
+James Tarkowski,2026-01-01,50.0
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Jarrad Branthwaite,2026-01-01,104.16666666666667
+Michael Keane,2026-01-01,6.75
+Michael Keane,2026-01-01,6.75
+Michael Keane,2026-01-01,6.75
+Michael Keane,2026-01-01,6.75
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Vitalii Mykolenko,2026-01-01,14.5
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+Jack Grealish,2026-01-01,9.857142857142858
+James Garner,2026-01-01,43.333333333333336
+James Garner,2026-01-01,43.333333333333336
+James Garner,2026-01-01,43.333333333333336
+Harrison Armstrong,2026-01-01,8.0
+Tyler Dibling,2026-01-01,13.0
+Merlin Röhl,2026-01-01,38.666666666666664
+Merlin Röhl,2026-01-01,38.666666666666664
+Merlin Röhl,2026-01-01,38.666666666666664
+Merlin Röhl,2026-01-01,38.666666666666664
+Merlin Röhl,2026-01-01,38.666666666666664
+Merlin Röhl,2026-01-01,38.666666666666664
+Hayden Hackney,2026-01-01,51.25
+Hayden Hackney,2026-01-01,51.25
+Hayden Hackney,2026-01-01,51.25
+Hayden Hackney,2026-01-01,51.25
+Thierno Barry,2026-01-01,8.5
+Thierno Barry,2026-01-01,8.5
+Benjamin Lecomte,2026-01-01,69.0
+Joachim Andersen,2026-01-01,26.0
+Antonee Robinson,2026-01-01,25.5
+Antonee Robinson,2026-01-01,25.5
+Antonee Robinson,2026-01-01,25.5
+Antonee Robinson,2026-01-01,25.5
+Jorge Cuenca Barreno,2026-01-01,17.5
+Jorge Cuenca Barreno,2026-01-01,17.5
+Kenny Tete,2026-01-01,40.666666666666664
+Kenny Tete,2026-01-01,40.666666666666664
+Kenny Tete,2026-01-01,40.666666666666664
+Timothy Castagne,2026-01-01,45.5
+Timothy Castagne,2026-01-01,45.5
+Emile Smith Rowe,2026-01-01,9.4
+Emile Smith Rowe,2026-01-01,9.4
+Emile Smith Rowe,2026-01-01,9.4
+Emile Smith Rowe,2026-01-01,9.4
+Emile Smith Rowe,2026-01-01,9.4
+Oscar Bobb,2026-01-01,63.333333333333336
+Oscar Bobb,2026-01-01,63.333333333333336
+Oscar Bobb,2026-01-01,63.333333333333336
+Sander Berge,2026-01-01,22.5
+Sander Berge,2026-01-01,22.5
+Tom Cairney,2026-01-01,1.0
+Ryan Sessegnon,2026-01-01,23.0
+Ryan Sessegnon,2026-01-01,23.0
+Ryan Sessegnon,2026-01-01,23.0
+Ryan Sessegnon,2026-01-01,23.0
+Harrison Reed,2026-01-01,37.0
+Harrison Reed,2026-01-01,37.0
+Harrison Reed,2026-01-01,37.0
+Harrison Reed,2026-01-01,37.0
+Rodrigo Muniz Carvalho,2026-01-01,39.333333333333336
+Rodrigo Muniz Carvalho,2026-01-01,39.333333333333336
+Rodrigo Muniz Carvalho,2026-01-01,39.333333333333336
+Hugo Larsson,2026-01-01,9.166666666666666
+Hugo Larsson,2026-01-01,9.166666666666666
+Hugo Larsson,2026-01-01,9.166666666666666
+Hugo Larsson,2026-01-01,9.166666666666666
+Hugo Larsson,2026-01-01,9.166666666666666
+Hugo Larsson,2026-01-01,9.166666666666666
+Tim Iroegbunam,2026-01-01,53.666666666666664
+Tim Iroegbunam,2026-01-01,53.666666666666664
+Tim Iroegbunam,2026-01-01,53.666666666666664
+John Egan,2026-01-01,117.0
+John Egan,2026-01-01,117.0
+Charlie Hughes,2026-01-01,37.0
+Charlie Hughes,2026-01-01,37.0
+Semi Ajayi,2026-01-01,207.66666666666666
+Semi Ajayi,2026-01-01,207.66666666666666
+Semi Ajayi,2026-01-01,207.66666666666666
+Lewie Coyle,2026-01-01,14.2
+Lewie Coyle,2026-01-01,14.2
+Lewie Coyle,2026-01-01,14.2
+Lewie Coyle,2026-01-01,14.2
+Lewie Coyle,2026-01-01,14.2
+Ryan Giles,2026-01-01,5.0
+Ryan Giles,2026-01-01,5.0
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Paddy McNair,2026-01-01,36.42857142857143
+Mohamed Belloumi,2026-01-01,287.0
+Kieran Dowell,2026-01-01,84.0
+Matt Crooks,2026-01-01,98.0
+Matt Crooks,2026-01-01,98.0
+Matt Crooks,2026-01-01,98.0
+Matt Crooks,2026-01-01,98.0
+Matt Crooks,2026-01-01,98.0
+Regan Slater,2026-01-01,54.5
+Regan Slater,2026-01-01,54.5
+Abdülkadir Ömür,2026-01-01,23.5
+Abdülkadir Ömür,2026-01-01,23.5
+Abdülkadir Ömür,2026-01-01,23.5
+Abdülkadir Ömür,2026-01-01,23.5
+Óscar Zambrano,2026-01-01,6.0
+Oli McBurnie,2026-01-01,18.0
+Oli McBurnie,2026-01-01,18.0
+Oli McBurnie,2026-01-01,18.0
+Darko Gyabi,2026-01-01,45.333333333333336
+Darko Gyabi,2026-01-01,45.333333333333336
+Darko Gyabi,2026-01-01,45.333333333333336
+Joe Gelhardt,2026-01-01,35.666666666666664
+Joe Gelhardt,2026-01-01,35.666666666666664
+Joe Gelhardt,2026-01-01,35.666666666666664
+Matt Targett,2026-01-01,112.33333333333333
+Matt Targett,2026-01-01,112.33333333333333
+Matt Targett,2026-01-01,112.33333333333333
+Hidemasa Morita,2026-01-01,17.5
+Hidemasa Morita,2026-01-01,17.5
+Elliot Stroud,2026-01-01,6.0
+Nobel Mendy,2026-01-01,26.5
+Nobel Mendy,2026-01-01,26.5
+Nobel Mendy,2026-01-01,26.5
+Nobel Mendy,2026-01-01,26.5
+Mohamed-Ali Cho,2026-01-01,12.6
+Mohamed-Ali Cho,2026-01-01,12.6
+Mohamed-Ali Cho,2026-01-01,12.6
+Mohamed-Ali Cho,2026-01-01,12.6
+Mohamed-Ali Cho,2026-01-01,12.6
+Robinio Vaz,2026-01-01,14.5
+Robinio Vaz,2026-01-01,14.5
+Brooke Norton-Cuffy,2026-01-01,29.75
+Brooke Norton-Cuffy,2026-01-01,29.75
+Brooke Norton-Cuffy,2026-01-01,29.75
+Brooke Norton-Cuffy,2026-01-01,29.75
+Sorba Thomas,2026-01-01,14.0
+Issa Diop,2026-01-01,21.5
+Issa Diop,2026-01-01,21.5
+Saša Lukić,2026-01-01,15.8
+Saša Lukić,2026-01-01,15.8
+Saša Lukić,2026-01-01,15.8
+Saša Lukić,2026-01-01,15.8
+Saša Lukić,2026-01-01,15.8
+Christian Walton,2026-01-01,34.0
+Alex Palmer,2026-01-01,5.0
+Cédric Kipré,2026-01-01,2.0
+Leif Davis,2026-01-01,2.5
+Leif Davis,2026-01-01,2.5
+Leif Davis,2026-01-01,2.5
+Leif Davis,2026-01-01,2.5
+Jacob Greaves,2026-01-01,47.0
+Marcelino Núñez,2026-01-01,17.5
+Marcelino Núñez,2026-01-01,17.5
+Marcelino Núñez,2026-01-01,17.5
+Marcelino Núñez,2026-01-01,17.5
+Marcelino Núñez,2026-01-01,17.5
+Marcelino Núñez,2026-01-01,17.5
+Azor Matusiwa,2026-01-01,3.0
+Jack Taylor,2026-01-01,30.0
+Jack Taylor,2026-01-01,30.0
+Jack Clarke,2026-01-01,42.0
+Abdul Fatawu,2026-01-01,115.0
+Abdul Fatawu,2026-01-01,115.0
+Emersonn Correia da Silva,2026-01-01,30.0
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Jaden Philogene,2026-01-01,26.857142857142858
+Chuba Akpom,2026-01-01,5.0
+Kasey McAteer,2026-01-01,38.333333333333336
+Kasey McAteer,2026-01-01,38.333333333333336
+Kasey McAteer,2026-01-01,38.333333333333336
+Daizen Maeda,2026-01-01,14.166666666666666
+Daizen Maeda,2026-01-01,14.166666666666666
+Daizen Maeda,2026-01-01,14.166666666666666
+Daizen Maeda,2026-01-01,14.166666666666666
+Daizen Maeda,2026-01-01,14.166666666666666
+Daizen Maeda,2026-01-01,14.166666666666666
+Florentino Ibrain Morris Luís,2026-01-01,13.5
+Florentino Ibrain Morris Luís,2026-01-01,13.5
+Julio Enciso,2026-01-01,37.333333333333336
+Julio Enciso,2026-01-01,37.333333333333336
+Julio Enciso,2026-01-01,37.333333333333336
+Julio Enciso,2026-01-01,37.333333333333336
+Julio Enciso,2026-01-01,37.333333333333336
+Julio Enciso,2026-01-01,37.333333333333336
+Abdoul Ouattara,2026-01-01,23.5
+Abdoul Ouattara,2026-01-01,23.5
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Exequiel Palacios,2026-01-01,65.375
+Zian Flemming,2026-01-01,23.25
+Zian Flemming,2026-01-01,23.25
+Zian Flemming,2026-01-01,23.25
+Zian Flemming,2026-01-01,23.25
+Harry Wilson,2026-01-01,29.0
+Harry Wilson,2026-01-01,29.0
+Harry Wilson,2026-01-01,29.0
+Jaka Bijol,2026-01-01,38.333333333333336
+Jaka Bijol,2026-01-01,38.333333333333336
+Jaka Bijol,2026-01-01,38.333333333333336
+Joe Rodon,2026-01-01,5.0
+Joe Rodon,2026-01-01,5.0
+Joe Rodon,2026-01-01,5.0
+Jayden Bogle,2026-01-01,7.166666666666667
+Jayden Bogle,2026-01-01,7.166666666666667
+Jayden Bogle,2026-01-01,7.166666666666667
+Jayden Bogle,2026-01-01,7.166666666666667
+Jayden Bogle,2026-01-01,7.166666666666667
+Jayden Bogle,2026-01-01,7.166666666666667
+Gabriel Gudmundsson,2026-01-01,2.5
+Gabriel Gudmundsson,2026-01-01,2.5
+James Justin,2026-01-01,12.0
+James Justin,2026-01-01,12.0
+James Justin,2026-01-01,12.0
+Anton Stach,2026-01-01,7.666666666666667
+Anton Stach,2026-01-01,7.666666666666667
+Anton Stach,2026-01-01,7.666666666666667
+Noah Okafor,2026-01-01,15.166666666666666
+Noah Okafor,2026-01-01,15.166666666666666
+Noah Okafor,2026-01-01,15.166666666666666
+Noah Okafor,2026-01-01,15.166666666666666
+Noah Okafor,2026-01-01,15.166666666666666
+Noah Okafor,2026-01-01,15.166666666666666
+Brenden Aaronson,2026-01-01,1.0
+Ethan Ampadu,2026-01-01,40.333333333333336
+Ethan Ampadu,2026-01-01,40.333333333333336
+Ethan Ampadu,2026-01-01,40.333333333333336
+Sean Longstaff,2026-01-01,16.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Daniel James,2026-01-01,87.0
+Ilia Gruev,2026-01-01,40.0
+Ilia Gruev,2026-01-01,40.0
+Ilia Gruev,2026-01-01,40.0
+Dominic Calvert-Lewin,2026-01-01,29.0
+Dominic Calvert-Lewin,2026-01-01,29.0
+Dominic Calvert-Lewin,2026-01-01,29.0
+Dominic Calvert-Lewin,2026-01-01,29.0
+Lukas Nmecha,2026-01-01,72.6
+Lukas Nmecha,2026-01-01,72.6
+Lukas Nmecha,2026-01-01,72.6
+Lukas Nmecha,2026-01-01,72.6
+Lukas Nmecha,2026-01-01,72.6
+Nico Elvedi,2026-01-01,11.0
+Nico Elvedi,2026-01-01,11.0
+Nico Elvedi,2026-01-01,11.0
+Nico Elvedi,2026-01-01,11.0
+Nico Elvedi,2026-01-01,11.0
+Nico Elvedi,2026-01-01,11.0
+Michael Zetterer,2026-01-01,4.5
+Michael Zetterer,2026-01-01,4.5
+Michael Zetterer,2026-01-01,4.5
+Michael Zetterer,2026-01-01,4.5
+Melvin Bard,2026-01-01,14.4
+Melvin Bard,2026-01-01,14.4
+Melvin Bard,2026-01-01,14.4
+Melvin Bard,2026-01-01,14.4
+Melvin Bard,2026-01-01,14.4
+Jean-Mattéo Bahoya,2026-01-01,16.25
+Jean-Mattéo Bahoya,2026-01-01,16.25
+Jean-Mattéo Bahoya,2026-01-01,16.25
+Jean-Mattéo Bahoya,2026-01-01,16.25
+Alisson Becker,2026-01-01,32.2
+Alisson Becker,2026-01-01,32.2
+Alisson Becker,2026-01-01,32.2
+Alisson Becker,2026-01-01,32.2
+Alisson Becker,2026-01-01,32.2
+Giorgi Mamardashvili,2026-01-01,31.0
+Freddie Woodman,2026-01-01,56.0
+Freddie Woodman,2026-01-01,56.0
+Virgil van Dijk,2026-01-01,5.0
+Virgil van Dijk,2026-01-01,5.0
+Jeremie Frimpong,2026-01-01,25.0
+Milos Kerkez,2026-01-01,15.5
+Milos Kerkez,2026-01-01,15.5
+Milos Kerkez,2026-01-01,15.5
+Milos Kerkez,2026-01-01,15.5
+Joe Gomez,2026-01-01,37.25
+Joe Gomez,2026-01-01,37.25
+Joe Gomez,2026-01-01,37.25
+Joe Gomez,2026-01-01,37.25
+Jeremy Jacquet,2026-01-01,7.666666666666667
+Jeremy Jacquet,2026-01-01,7.666666666666667
+Jeremy Jacquet,2026-01-01,7.666666666666667
+Kostas Tsimikas,2026-01-01,34.5
+Kostas Tsimikas,2026-01-01,34.5
+Florian Wirtz,2026-01-01,10.5
+Florian Wirtz,2026-01-01,10.5
+Florian Wirtz,2026-01-01,10.5
+Florian Wirtz,2026-01-01,10.5
+Cody Gakpo,2026-01-01,7.5
+Cody Gakpo,2026-01-01,7.5
+Dominik Szoboszlai,2026-01-01,28.5
+Dominik Szoboszlai,2026-01-01,28.5
+Federico Chiesa,2026-01-01,17.0
+Federico Chiesa,2026-01-01,17.0
+Federico Chiesa,2026-01-01,17.0
+Federico Chiesa,2026-01-01,17.0
+Federico Chiesa,2026-01-01,17.0
+Ryan Gravenberch,2026-01-01,12.25
+Ryan Gravenberch,2026-01-01,12.25
+Ryan Gravenberch,2026-01-01,12.25
+Ryan Gravenberch,2026-01-01,12.25
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexis Mac Allister,2026-01-01,15.714285714285714
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Alexander Isak,2026-01-01,10.3
+Jayden Danns,2026-01-01,180.0
+Ronald Araujo,2026-01-01,61.2
+Ronald Araujo,2026-01-01,61.2
+Ronald Araujo,2026-01-01,61.2
+Ronald Araujo,2026-01-01,61.2
+Ronald Araujo,2026-01-01,61.2
+Bradley Barcola,2026-01-01,8.5
+Bradley Barcola,2026-01-01,8.5
+Enzo Fernández,2026-01-01,22.0
+Enzo Fernández,2026-01-01,22.0
+Enzo Fernández,2026-01-01,22.0
+Iliman Ndiaye,2026-01-01,15.0
+Iliman Ndiaye,2026-01-01,15.0
+Iliman Ndiaye,2026-01-01,15.0
+Gianluigi Donnarumma,2026-01-01,10.5
+Gianluigi Donnarumma,2026-01-01,10.5
+Marcus Bettinelli,2026-01-01,27.0
+Marc Guéhi,2026-01-01,49.333333333333336
+Marc Guéhi,2026-01-01,49.333333333333336
+Marc Guéhi,2026-01-01,49.333333333333336
+Matheus Nunes,2026-01-01,11.25
+Matheus Nunes,2026-01-01,11.25
+Matheus Nunes,2026-01-01,11.25
+Matheus Nunes,2026-01-01,11.25
+Rúben dos Santos Gato Alves Dias,2026-01-01,24.666666666666668
+Rúben dos Santos Gato Alves Dias,2026-01-01,24.666666666666668
+Rúben dos Santos Gato Alves Dias,2026-01-01,24.666666666666668
+Joško Gvardiol,2026-01-01,12.0
+Joško Gvardiol,2026-01-01,12.0
+Joško Gvardiol,2026-01-01,12.0
+Joško Gvardiol,2026-01-01,12.0
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Rayan Aït-Nouri,2026-01-01,68.28571428571429
+Abdukodir Khusanov,2026-01-01,11.0
+Rico Lewis,2026-01-01,11.0
+Vitor de Oliveira Nunes dos Reis,2026-01-01,14.0
+Antoine Semenyo,2026-01-01,9.0
+Antoine Semenyo,2026-01-01,9.0
+Antoine Semenyo,2026-01-01,9.0
+Phil Foden,2026-01-01,6.2
+Phil Foden,2026-01-01,6.2
+Phil Foden,2026-01-01,6.2
+Phil Foden,2026-01-01,6.2
+Phil Foden,2026-01-01,6.2
+Rayan Cherki,2026-01-01,149.0
+Rayan Cherki,2026-01-01,149.0
+Rayan Cherki,2026-01-01,149.0
+Jérémy Doku,2026-01-01,16.6
+Jérémy Doku,2026-01-01,16.6
+Jérémy Doku,2026-01-01,16.6
+Jérémy Doku,2026-01-01,16.6
+Jérémy Doku,2026-01-01,16.6
+Mateo Kovačić,2026-01-01,95.5
+Mateo Kovačić,2026-01-01,95.5
+Mateo Kovačić,2026-01-01,95.5
+Mateo Kovačić,2026-01-01,95.5
+Mateo Kovačić,2026-01-01,95.5
+Mateo Kovačić,2026-01-01,95.5
+Erling Haaland,2026-01-01,19.0
+Erling Haaland,2026-01-01,19.0
+Erling Haaland,2026-01-01,19.0
+Erling Haaland,2026-01-01,19.0
+Erling Haaland,2026-01-01,19.0
+Elliot Anderson,2026-01-01,42.0
+Elliot Anderson,2026-01-01,42.0
+Elliot Anderson,2026-01-01,42.0
+Ayyoub Bouaddi,2026-01-01,5.666666666666667
+Ayyoub Bouaddi,2026-01-01,5.666666666666667
+Ayyoub Bouaddi,2026-01-01,5.666666666666667
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Youri Tielemans,2026-01-01,89.57142857142857
+Carlos Baleba,2026-01-01,8.25
+Carlos Baleba,2026-01-01,8.25
+Carlos Baleba,2026-01-01,8.25
+Carlos Baleba,2026-01-01,8.25
+Karl Darlow,2026-01-01,62.0
+Tom Heaton,2026-01-01,45.0
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Matthijs de Ligt,2026-01-01,21.428571428571427
+Diogo Dalot Teixeira,2026-01-01,229.0
+Diogo Dalot Teixeira,2026-01-01,229.0
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Harry Maguire,2026-01-01,24.4
+Lisandro Martínez,2026-01-01,135.0
+Lisandro Martínez,2026-01-01,135.0
+Lisandro Martínez,2026-01-01,135.0
+Lisandro Martínez,2026-01-01,135.0
+Lisandro Martínez,2026-01-01,135.0
+Lisandro Martínez,2026-01-01,135.0
+Leny Yoro,2026-01-01,27.4
+Leny Yoro,2026-01-01,27.4
+Leny Yoro,2026-01-01,27.4
+Leny Yoro,2026-01-01,27.4
+Leny Yoro,2026-01-01,27.4
+Ayden Heaven,2026-01-01,27.5
+Ayden Heaven,2026-01-01,27.5
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Noussair Mazraoui,2026-01-01,12.75
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Luke Shaw,2026-01-01,48.875
+Bruno Borges Fernandes,2026-01-01,16.0
+Bryan Mbeumo,2026-01-01,54.5
+Bryan Mbeumo,2026-01-01,54.5
+Matheus Santos Carneiro da Cunha,2026-01-01,23.25
+Matheus Santos Carneiro da Cunha,2026-01-01,23.25
+Matheus Santos Carneiro da Cunha,2026-01-01,23.25
+Matheus Santos Carneiro da Cunha,2026-01-01,23.25
+Marcus Rashford,2026-01-01,29.5
+Marcus Rashford,2026-01-01,29.5
+Marcus Rashford,2026-01-01,29.5
+Marcus Rashford,2026-01-01,29.5
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Mason Mount,2026-01-01,45.0
+Amad Diallo,2026-01-01,40.666666666666664
+Amad Diallo,2026-01-01,40.666666666666664
+Amad Diallo,2026-01-01,40.666666666666664
+Kobbie Mainoo,2026-01-01,23.5
+Kobbie Mainoo,2026-01-01,23.5
+Kobbie Mainoo,2026-01-01,23.5
+Kobbie Mainoo,2026-01-01,23.5
+Joshua Zirkzee,2026-01-01,18.0
+Joshua Zirkzee,2026-01-01,18.0
+Joshua Zirkzee,2026-01-01,18.0
+Joshua Zirkzee,2026-01-01,18.0
+Nick Pope,2026-01-01,64.0
+Nick Pope,2026-01-01,64.0
+Nick Pope,2026-01-01,64.0
+Malick Thiaw,2026-01-01,32.75
+Malick Thiaw,2026-01-01,32.75
+Malick Thiaw,2026-01-01,32.75
+Malick Thiaw,2026-01-01,32.75
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Fabian Schär,2026-01-01,46.1
+Sven Botman,2026-01-01,67.5
+Sven Botman,2026-01-01,67.5
+Sven Botman,2026-01-01,67.5
+Sven Botman,2026-01-01,67.5
+Sven Botman,2026-01-01,67.5
+Sven Botman,2026-01-01,67.5
+Dan Burn,2026-01-01,18.5
+Dan Burn,2026-01-01,18.5
+Lewis Hall,2026-01-01,76.0
+Lewis Hall,2026-01-01,76.0
+Tino Livramento,2026-01-01,26.333333333333332
+Tino Livramento,2026-01-01,26.333333333333332
+Tino Livramento,2026-01-01,26.333333333333332
+Harvey Barnes,2026-01-01,45.0
+Harvey Barnes,2026-01-01,45.0
+Harvey Barnes,2026-01-01,45.0
+Anthony Elanga,2026-01-01,10.833333333333334
+Anthony Elanga,2026-01-01,10.833333333333334
+Anthony Elanga,2026-01-01,10.833333333333334
+Anthony Elanga,2026-01-01,10.833333333333334
+Anthony Elanga,2026-01-01,10.833333333333334
+Anthony Elanga,2026-01-01,10.833333333333334
+Jacob Ramsey,2026-01-01,107.5
+Jacob Ramsey,2026-01-01,107.5
+Jacob Ramsey,2026-01-01,107.5
+Jacob Ramsey,2026-01-01,107.5
+Jacob Ramsey,2026-01-01,107.5
+Jacob Ramsey,2026-01-01,107.5
+Jacob Murphy,2026-01-01,24.0
+Jacob Murphy,2026-01-01,24.0
+Jacob Murphy,2026-01-01,24.0
+Jacob Murphy,2026-01-01,24.0
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Joelinton Cássio Apolinário de Lira,2026-01-01,33.625
+Lewis Miley,2026-01-01,101.0
+Lewis Miley,2026-01-01,101.0
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Joe Willock,2026-01-01,27.555555555555557
+Yoane Wissa,2026-01-01,156.33333333333334
+Yoane Wissa,2026-01-01,156.33333333333334
+Yoane Wissa,2026-01-01,156.33333333333334
+Aladji Bamba,2026-01-01,415.0
+Amar Dedic,2026-01-01,33.666666666666664
+Amar Dedic,2026-01-01,33.666666666666664
+Amar Dedic,2026-01-01,33.666666666666664
+Matias Fernandez-Pardo,2026-01-01,18.333333333333332
+Matias Fernandez-Pardo,2026-01-01,18.333333333333332
+Matias Fernandez-Pardo,2026-01-01,18.333333333333332
+Liam Delap,2026-01-01,269.0
+Liam Delap,2026-01-01,269.0
+Matz Sels,2026-01-01,13.0
+John Victor Maciel Furtado,2026-01-01,5.0
+Neco Williams,2026-01-01,62.0
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Murillo Costa dos Santos,2026-01-01,52.111111111111114
+Ola Aina,2026-01-01,101.8
+Ola Aina,2026-01-01,101.8
+Ola Aina,2026-01-01,101.8
+Ola Aina,2026-01-01,101.8
+Ola Aina,2026-01-01,101.8
+Luca Netz,2026-01-01,55.0
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Morgan Gibbs-White,2026-01-01,7.833333333333333
+Callum Hudson-Odoi,2026-01-01,12.0
+Callum Hudson-Odoi,2026-01-01,12.0
+Callum Hudson-Odoi,2026-01-01,12.0
+Callum Hudson-Odoi,2026-01-01,12.0
+Callum Hudson-Odoi,2026-01-01,12.0
+Dan Ndoye,2026-01-01,18.166666666666668
+Dan Ndoye,2026-01-01,18.166666666666668
+Dan Ndoye,2026-01-01,18.166666666666668
+Dan Ndoye,2026-01-01,18.166666666666668
+Dan Ndoye,2026-01-01,18.166666666666668
+Dan Ndoye,2026-01-01,18.166666666666668
+James McAtee,2026-01-01,8.0
+Nicolás Domínguez,2026-01-01,147.25
+Nicolás Domínguez,2026-01-01,147.25
+Nicolás Domínguez,2026-01-01,147.25
+Nicolás Domínguez,2026-01-01,147.25
+Ibrahim Sangaré,2026-01-01,57.666666666666664
+Ibrahim Sangaré,2026-01-01,57.666666666666664
+Ibrahim Sangaré,2026-01-01,57.666666666666664
+Ryan Yates,2026-01-01,5.0
+Chris Wood,2026-01-01,12.6
+Chris Wood,2026-01-01,12.6
+Chris Wood,2026-01-01,12.6
+Chris Wood,2026-01-01,12.6
+Chris Wood,2026-01-01,12.6
+Igor Jesus Maciel da Cruz,2026-01-01,3.0
+Arnaud Kalimuendo,2026-01-01,6.0
+Arnaud Kalimuendo,2026-01-01,6.0
+Xaver Schlager,2026-01-01,185.75
+Xaver Schlager,2026-01-01,185.75
+Xaver Schlager,2026-01-01,185.75
+Xaver Schlager,2026-01-01,185.75
+Jan Paul van Hecke,2026-01-01,38.0
+Jan Paul van Hecke,2026-01-01,38.0
+Jan Paul van Hecke,2026-01-01,38.0
+Tosin Adarabioyo,2026-01-01,8.666666666666666
+Tosin Adarabioyo,2026-01-01,8.666666666666666
+Tosin Adarabioyo,2026-01-01,8.666666666666666
+Omar Marmoush,2026-01-01,216.0
+Omar Marmoush,2026-01-01,216.0
+Sávio Moreira de Oliveira,2026-01-01,12.6
+Sávio Moreira de Oliveira,2026-01-01,12.6
+Sávio Moreira de Oliveira,2026-01-01,12.6
+Sávio Moreira de Oliveira,2026-01-01,12.6
+Sávio Moreira de Oliveira,2026-01-01,12.6
+Sandro Tonali,2026-01-01,2.0
+Sandro Tonali,2026-01-01,2.0
+Martin Dubravka,2026-01-01,27.0
+Pedro Porro Sauceda,2026-01-01,12.666666666666666
+Pedro Porro Sauceda,2026-01-01,12.666666666666666
+Pedro Porro Sauceda,2026-01-01,12.666666666666666
+Andrew Robertson,2026-01-01,20.8
+Andrew Robertson,2026-01-01,20.8
+Andrew Robertson,2026-01-01,20.8
+Andrew Robertson,2026-01-01,20.8
+Andrew Robertson,2026-01-01,20.8
+Micky van de Ven,2026-01-01,35.166666666666664
+Micky van de Ven,2026-01-01,35.166666666666664
+Micky van de Ven,2026-01-01,35.166666666666664
+Micky van de Ven,2026-01-01,35.166666666666664
+Micky van de Ven,2026-01-01,35.166666666666664
+Micky van de Ven,2026-01-01,35.166666666666664
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Destiny Udogie,2026-01-01,30.857142857142858
+Ben Davies,2026-01-01,33.5
+Ben Davies,2026-01-01,33.5
+Ben Davies,2026-01-01,33.5
+Ben Davies,2026-01-01,33.5
+Mohammed Kudus,2026-01-01,10.333333333333334
+Mohammed Kudus,2026-01-01,10.333333333333334
+Mohammed Kudus,2026-01-01,10.333333333333334
+Mathys Tel,2026-01-01,6.0
+Mathys Tel,2026-01-01,6.0
+Mathys Tel,2026-01-01,6.0
+James Maddison,2026-01-01,130.6
+James Maddison,2026-01-01,130.6
+James Maddison,2026-01-01,130.6
+James Maddison,2026-01-01,130.6
+James Maddison,2026-01-01,130.6
+Rodrigo Bentancur,2026-01-01,15.0
+Rodrigo Bentancur,2026-01-01,15.0
+Rodrigo Bentancur,2026-01-01,15.0
+Rodrigo Bentancur,2026-01-01,15.0
+Lucas Bergvall,2026-01-01,39.5
+Lucas Bergvall,2026-01-01,39.5
+Dejan Kulusevski,2026-01-01,293.0
+Dejan Kulusevski,2026-01-01,293.0
+Archie Gray,2026-01-01,4.5
+Archie Gray,2026-01-01,4.5
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Richarlison de Andrade,2026-01-01,33.7
+Mykhailo Mudryk,2026-01-01,16.333333333333332
+Mykhailo Mudryk,2026-01-01,16.333333333333332
+Mykhailo Mudryk,2026-01-01,16.333333333333332
+Kevin Danso,2026-01-01,14.666666666666666
+Kevin Danso,2026-01-01,14.666666666666666
+Kevin Danso,2026-01-01,14.666666666666666
+Kevin Danso,2026-01-01,14.666666666666666
+Kevin Danso,2026-01-01,14.666666666666666
+Kevin Danso,2026-01-01,14.666666666666666
+Robin Roefs,2026-01-01,11.0
+Robin Roefs,2026-01-01,11.0
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Daniel Ballard,2026-01-01,25.11111111111111
+Nordi Mukiele,2026-01-01,14.75
+Nordi Mukiele,2026-01-01,14.75
+Nordi Mukiele,2026-01-01,14.75
+Nordi Mukiele,2026-01-01,14.75
+Trai Hume,2026-01-01,6.0
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Omar Alderete,2026-01-01,4.571428571428571
+Reinildo Mandava,2026-01-01,6.333333333333333
+Reinildo Mandava,2026-01-01,6.333333333333333
+Reinildo Mandava,2026-01-01,6.333333333333333
+Thomas Meunier,2026-01-01,103.0
+Thomas Meunier,2026-01-01,103.0
+Thomas Meunier,2026-01-01,103.0
+Thomas Meunier,2026-01-01,103.0
+Thomas Meunier,2026-01-01,103.0
+Enzo Le Fée,2026-01-01,28.8
+Enzo Le Fée,2026-01-01,28.8
+Enzo Le Fée,2026-01-01,28.8
+Enzo Le Fée,2026-01-01,28.8
+Enzo Le Fée,2026-01-01,28.8
+Habib Diarra,2026-01-01,11.25
+Habib Diarra,2026-01-01,11.25
+Habib Diarra,2026-01-01,11.25
+Habib Diarra,2026-01-01,11.25
+Granit Xhaka,2026-01-01,2.5
+Granit Xhaka,2026-01-01,2.5
+Noah Sadiki,2026-01-01,4.0
+Romaine Mundle,2026-01-01,202.66666666666666
+Romaine Mundle,2026-01-01,202.66666666666666
+Romaine Mundle,2026-01-01,202.66666666666666
+Chris Rigg,2026-01-01,10.25
+Chris Rigg,2026-01-01,10.25
+Chris Rigg,2026-01-01,10.25
+Chris Rigg,2026-01-01,10.25
+Chemsdine Talbi,2026-01-01,47.666666666666664
+Chemsdine Talbi,2026-01-01,47.666666666666664
+Chemsdine Talbi,2026-01-01,47.666666666666664
+Nilson Angulo,2026-01-01,19.0
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Brian Brobbey,2026-01-01,7.153846153846154
+Wilson Isidor,2026-01-01,8.333333333333334
+Wilson Isidor,2026-01-01,8.333333333333334
+Wilson Isidor,2026-01-01,8.333333333333334
+Malick Fofana,2026-01-01,12.5
+Malick Fofana,2026-01-01,12.5
+Malick Fofana,2026-01-01,12.5
+Malick Fofana,2026-01-01,12.5
