@@ -293,7 +293,8 @@ class ScoutingEngine:
         top = top.reset_index(drop=True)
         top.index = top.index + 1
         top.index.name = "rank"
-        return top[OUTPUT_COLUMNS]
+        present_cols = [c for c in OUTPUT_COLUMNS if c in top.columns]
+        return top[present_cols]
 
     def recommend_by_category(
         self, player: str | int, by: str = "price_band", per_group: int = 3, **filters

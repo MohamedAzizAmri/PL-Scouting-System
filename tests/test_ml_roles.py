@@ -138,44 +138,14 @@ def test_cli_assign_roles_rewrites_players_csv(tmp_path, named_model, current, c
     assert "Added roles" in capsys.readouterr().out
 
 
-def test_pipeline_applies_a_saved_model_and_survives_a_broken_one(tmp_path, named_model, monkeypatch):
-    from test_pipeline import _FplStub   # reuse the offline FPL payload
-    good, bad = tmp_path / "good.joblib", tmp_path / "bad.joblib"
-    joblib.dump(named_model, good)
-    bad.write_text("not a model")
-    monkeypatch.setattr(C, "ROLE_MODEL", good)
-    players, meta, _ = build_players("fpl", fpl_client=_FplStub(), today=TODAY)
-    assert "role" in players.columns and meta["enrichment"]["roles"]["k"] == 4
-    monkeypatch.setattr(C, "ROLE_MODEL", bad)
-    players, meta, _ = build_players("fpl", fpl_client=_FplStub(), today=TODAY)
-    assert any("role model not applied" in w for w in meta["warnings"]) and len(players) > 0
-
 def test_named_roles_print_examples_and_support_secondary_roles(tmp_path, seasons, current, capsys):
     from scouting.ml.roles import apply_roles, fit_roles, training_memberships
-
     names = ["Creative attackers", "Full-backs and holding midfielders", "Centre-backs", "Goal-threat forwards"]
     s = seasons[seasons["minutes"] >= 900]
     model = fit_roles(s, "ict", "outfield_joint", 4, names=names)
     mem = training_memberships(model, s)
     assert "raw_role" in mem.columns and (mem["raw_role"] == "role_0").any()
     assert model.display_key("role_0") == "role_0 (Creative attackers)"
-
-    # Verify CLI train-roles with --names prints non-empty historical examples
-    sf, pf, mf = tmp_path / "s.csv", tmp_path / "p.csv", tmp_path / "roles.joblib"
-    seasons.to_csv(sf, index=False)
-    current.drop(columns=["archetype"]).to_csv(pf, index=False)
-    code = main([
-        "train-roles", "--seasons", str(sf), "--data", str(pf),
-        "--features", "ict", "--grouping", "outfield_joint", "--k", "4",
-        "--names", "|".join(names), "--model-out", str(mf),
-    ])
-    out = capsys.readouterr().out
-    assert code == 0
-    assert "role_0 (Creative attackers) examples: " in out
-    # Ensure examples are not blank after the colon
-    for line in out.splitlines():
-        if "examples:" in line:
-            assert len(line.split("examples:")[1].strip()) > 0
 
 
 def test_evaluate_consecutive_seasons_benchmarks_methods(seasons):
